@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BrianTheBrain11
-- 👀 I’m interested in dotnet, C#, networking, game design, and discord bots.
-- 🌱 I’m currently learning C#, python, CPP
-- 💞️ I’m looking to collaborate on file management, networking, and dotnet projects.
+- 👋 Hi, I’m @BrianTheBrain11. I'm a comp sci major, trying to make a living from my hobbies.
+- 👀 I’m interested in dotnet, C#, C++, networking, gamedesign/development, romhacking/game modding, and homebrew.
+- 🌱 I’m currently learning C#, C++, C, Java, Rust.
+- 💞️ I’m looking to collaborate on romhacking projects, and development tools, and anything else that could help me gain experience.
 - 📫 How to reach me: brian.clason04@gmail.com || Discord:BrianTheBrain#6969
 
 <!---
